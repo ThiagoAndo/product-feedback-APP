@@ -30,10 +30,3 @@ function App() {
 }
 
 export default App
-// justing addig set up for type script
-// justing addig set up for type script
-// justing addig set up for type script
-// justing addig set up for type script
-// justing addig set up for type script
-// justing addig set up for type script
-// justing addig set up for type script
